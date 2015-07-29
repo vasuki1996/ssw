@@ -237,8 +237,8 @@ nav ul li a::-moz-focus-inner {border:0;}
     padding: 5% 0;
 }
 .main header {
-    float: left;
-    width: 80%;
+    float: center;
+    width: 100%;
 }
 
 /* ==========================================================================
